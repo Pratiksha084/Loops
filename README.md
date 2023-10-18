@@ -191,3 +191,102 @@ Print Number Triangle using For Loop Algorithm:
 
 14.End
 
+EXPECTED OUTPUT
+
+Calculator program using switch case
+
+Enter the first Number :2
+
+Enter the second Number :3
+
+Enter the operation to execute :
+
+1.Sum
+
+2.Substraction
+
+3.Multiplication
+
+4.Division
+
+1
+
+Display Days of the Week
+
+Enter a day number:
+1
+Monday:
+
+Print 50 Numbers using While loop
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+
+Print "Hello World" 10 times usin for loop
+
+hello world :1
+hello world :2
+hello world :3
+hello world :4
+hello world :5
+hello world :6
+hello world :7
+hello world :8
+hello world :9
+hello world :10
+
+Print number triangle using for loop
+
+1
+22
+333
+4444
+55555
